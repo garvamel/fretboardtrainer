@@ -1,3 +1,5 @@
+Refresh for a new note
+
 <div id="text"></div>
  
 <script>
