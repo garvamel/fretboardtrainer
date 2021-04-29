@@ -1,7 +1,5 @@
-{% assign min = 65 %}
-{% assign max = 80 %}
-{% assign diff = max | minus: min %}
-{% assign randomNumber = "now" | date: "%N" | modulo: diff | plus: min %}
+ <script
+ src="http://code.jquery.com/jquery-1.4.2.min.js"></script>  <script type="text/javascript">
 
 ## Welcome to GitHub Pages
 
