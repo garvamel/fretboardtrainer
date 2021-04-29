@@ -2,6 +2,10 @@
 
 <div id="text"></div>
  
+ 
+ Original idea by Rusty Jorgensen form MusicIsWin forums.
+ 
+ Credits 
 <script>
  var note = ["A", "B", "C", "D", "E", "F", "G"];
  var quality = ["Natural", "Sharp", "Flat"];
