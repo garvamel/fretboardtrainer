@@ -1,3 +1,8 @@
+{% assign min = 65 %}
+{% assign max = 80 %}
+{% assign diff = max | minus: min %}
+{% assign randomNumber = "now" | date: "%N" | modulo: diff | plus: min %}
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/garvamel/fretboardtrainer/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
