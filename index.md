@@ -1,4 +1,4 @@
-[Refresh or click this text for a new note](https://garvamel.github.io/fertboardtrainer)
+[Refresh or click this text for a new note](https://garvamel.github.io/fretboardtrainer)
 
 <div id="text"></div>
  
