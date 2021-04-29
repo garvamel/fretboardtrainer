@@ -1,6 +1,3 @@
- <script
- src="http://code.jquery.com/jquery-1.4.2.min.js"></script>  <script type="text/javascript">
-
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/garvamel/fretboardtrainer/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -38,8 +35,3 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
-{% assign min = 65 %}
-{% assign max = 80 %}
-{% assign diff = max | minus: min %}
-{% assign randomNumber = "now" | date: "%N" | modulo: diff | plus: min %}
