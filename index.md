@@ -1,6 +1,6 @@
 [Refresh or click this text for a new note](https://garvamel.github.io/fretboardtrainer)
 
-<div id="text"></div>
+##<div id="text"></div>
  
 <script>
  var note = ["A", "B", "C", "D", "E", "F", "G"];
